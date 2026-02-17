@@ -1,6 +1,7 @@
 :
 
 🛒 E-Commerce Sales Analysis & Recommendation System
+
 A Data Science project that analyzes real e-commerce transaction data, stores it in a structured database, and builds a machine learning pipeline to generate business insights and product recommendations.
 
 📌 Problem Statement
