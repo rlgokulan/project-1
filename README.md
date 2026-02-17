@@ -165,6 +165,8 @@ This project demonstrates how Data Science and Machine Learning can be applied t
 
 R.L.GOKULAN(DATA SCIENTIST)
 
+GETHUB:https://github.com/rlgokulan
+
 KNOWNLEDGE IN PYTHON,PANDAS,MACHINE LEARNIING,DEEP LEARNING,NLP
 
 CERTIFICATE BY:LOGIN360,CHENNAI
